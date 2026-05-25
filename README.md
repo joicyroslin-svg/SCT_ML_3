@@ -36,7 +36,7 @@ Bank Marketing Dataset
 - Feature Importance Graph
 
 ## ✅ Result
-The Decision Tree model successfully predicts whether a customer is likely to purchase/subscribe based on given features.
+The Decision Tree model achieved an accuracy of 91.49% and successfully predicted whether a customer is likely to subscribe.
 
 ## 📚 Learning Outcomes
 - Classification in Machine Learning
